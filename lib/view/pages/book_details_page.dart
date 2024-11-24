@@ -1,4 +1,3 @@
-import 'package:alpha/controller/auth_service.dart';
 import 'package:alpha/provider/favourites_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

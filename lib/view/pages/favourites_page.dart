@@ -1,6 +1,4 @@
-import 'dart:ffi';
 
-import 'package:alpha/controller/auth_service.dart';
 import 'package:alpha/provider/favourites_provider.dart';
 import 'package:alpha/provider/user_provider.dart';
 import 'package:flutter/material.dart';

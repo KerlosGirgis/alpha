@@ -1,5 +1,5 @@
 import 'package:alpha/controller/auth_service.dart';
-import 'package:alpha/view/pages/home_page.dart';
+import 'package:alpha/view/pages/navbar.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
@@ -124,7 +124,7 @@ class _LoginPageState extends State<LoginPage> {
                         Navigator.pushAndRemoveUntil(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => const HomePage()),
+                                builder: (context) => const Navbar()),
                             (Route<dynamic> route) => false);
                       }
                     },

@@ -6,7 +6,6 @@ import 'package:alpha/view/pages/favourites_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../../provider/favourites_provider.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -53,7 +52,7 @@ class _HomePageState extends State<HomePage> {
           actions: [
             Row(
               children: [
-                IconButton(
+                /*IconButton(
                     onPressed: () {
                       Navigator.push(
                         context,
@@ -82,7 +81,7 @@ class _HomePageState extends State<HomePage> {
                       Icons.favorite_outline_rounded,
                       color: Colors.black,
                       size: 32,
-                    )),
+                    )),*/
                 IconButton(
                     onPressed: () {
                       Navigator.push(
@@ -113,11 +112,6 @@ class _HomePageState extends State<HomePage> {
                       color: Colors.black,
                       size: 32,
                     )),
-                const CircleAvatar(
-                  backgroundColor: Colors.transparent,
-                  backgroundImage:
-                      AssetImage("assets/avatars/avatar_man_4.png"),
-                ),
                 const Padding(padding: EdgeInsets.only(right: 10))
               ],
             )
