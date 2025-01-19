@@ -18,7 +18,7 @@ Alpha is a Flutter-based mobile application designed to provide a seamless books
 
 Here’s a glimpse of the Alpha experience:
 
-<img width="150" alt="1.png" src="screenshots%2F1.png"/><img width="150" alt="2.png" src="screenshots%2F2.png"/><img width="150" alt="3.png" src="screenshots%2F3.png"/><img width="150" alt="4.png" src="screenshots%2F4.png"/><img width="150" alt="5.png" src="screenshots%2F5.png"/><img width="150" alt="6.png" src="screenshots%2F6.png"/>
+<img width="200" alt="1.png" src="screenshots%2F1.png"/><img width="200" alt="2.png" src="screenshots%2F2.png"/><img width="200" alt="3.png" src="screenshots%2F3.png"/><img width="200" alt="4.png" src="screenshots%2F4.png"/><img width="200" alt="5.png" src="screenshots%2F5.png"/><img width="200" alt="6.png" src="screenshots%2F6.png"/>
 
 ---
 
